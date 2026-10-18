@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="J.J.N Sport — our website is coming soon.">
+    <meta name="theme-color" content="#202820">
+    <title>J.J.N Sport — Coming soon</title>
+    <style>
+      :root { color-scheme: dark; background: #202820; color: #f3f0e5; font-family: 'Trebuchet MS', sans-serif; }
+      * { box-sizing: border-box; }
+      body { margin: 0; min-height: 100svh; display: grid; grid-template-rows: auto 1fr auto; padding: clamp(24px, 5vw, 72px); }
+      header { font-size: 18px; font-weight: bold; letter-spacing: .12em; }
+      main { position: relative; isolation: isolate; display: grid; align-content: center; padding: 90px 0; overflow: hidden; }
+      main::after { content: ''; position: absolute; z-index: -1; width: min(65vw, 640px); aspect-ratio: 1; border: 1px solid #667358; border-radius: 50%; right: -12%; top: 50%; transform: translateY(-50%); box-shadow: 0 0 0 45px #202820, 0 0 0 46px #46533c, 0 0 0 90px #202820, 0 0 0 91px #46533c; }
+      .label { color: #c8d69c; text-transform: uppercase; font-size: 12px; letter-spacing: .2em; }
+      h1 { font-family: Impact, 'Arial Narrow', sans-serif; text-transform: uppercase; font-weight: 400; font-size: clamp(64px, 12vw, 160px); line-height: .95; letter-spacing: -.025em; margin: 24px 0; max-width: 850px; }
+      .description { max-width: 340px; color: #c7cbbf; line-height: 1.7; font-size: 17px; }
+      footer { border-top: 1px solid #52604a; padding-top: 20px; color: #b3bcaa; font-size: 12px; letter-spacing: .05em; }
+      @media (max-width: 600px) { main::after { right: -50%; opacity: .5; } }
+    </style>
+  </head>
+  <body>
+    <header>J.J.N SPORT</header>
+    <main>
+      <p class="label">Coming soon</p>
+      <h1>A new<br>starting line.</h1>
+      <p class="description">The J.J.N Sport website is on its way. Check back soon.</p>
+    </main>
+    <footer>J.J.N SPORT</footer>
+  </body>
+</html>
