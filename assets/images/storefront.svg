@@ -1,0 +1,41 @@
+<svg viewBox="0 0 600 440" role="img" aria-labelledby="store-art-title" xmlns="http://www.w3.org/2000/svg">
+              <title id="store-art-title">Moviy peshtoqli J.J.N-SPORT do‘konining badiiy tasviri</title>
+              <defs>
+                <linearGradient id="store-window" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d5edff"/><stop offset="1" stop-color="#f1f8ff"/></linearGradient>
+                <linearGradient id="store-wall" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#e9f0f6"/></linearGradient>
+              </defs>
+              <circle cx="295" cy="212" r="166" fill="#dcecf9"/>
+              <circle cx="295" cy="212" r="194" fill="none" stroke="#cadfee" stroke-dasharray="3 9"/>
+              <path d="M57 359h488" stroke="#c7dbe9" stroke-width="2"/>
+              <ellipse cx="304" cy="365" rx="219" ry="18" fill="#c3d9e9" opacity=".45"/>
+              <path d="m455 127 26 14v211l-26 12Z" fill="#d0e0ed"/>
+              <path d="M120 130h336v223H120Z" fill="url(#store-wall)" stroke="#c4d9e9" stroke-width="2"/>
+              <rect x="109" y="100" width="357" height="65" rx="6" fill="#0868c6"/>
+              <rect x="109" y="100" width="357" height="7" rx="3" fill="#3395ed"/>
+              <text x="288" y="142" fill="white" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="900" letter-spacing="3">J.J.N-SPORT</text>
+              <path d="m120 165-19 34h373l-18-34Z" fill="#0875dc"/>
+              <path d="m142 165-13 34h31l9-34Zm58 0-5 34h31l1-34Zm57 0 2 34h31l-6-34Zm58 0 8 34h31l-12-34Zm58 0 14 34h31l-18-34Z" fill="#5eacf1"/>
+              <path d="M101 199h373v10H101Z" fill="#075bbb"/>
+              <path d="M137 218h110v116H137Z" fill="url(#store-window)" stroke="#b6ccdf" stroke-width="3"/>
+              <path d="M330 218h110v116H330Z" fill="url(#store-window)" stroke="#b6ccdf" stroke-width="3"/>
+              <path d="M263 216h50v137h-50Z" fill="#b7d8f1" stroke="#9ebbd2" stroke-width="3"/>
+              <path d="M269 223h38v108h-38Z" fill="url(#store-window)"/>
+              <path d="M299 277v21" stroke="#517a9a" stroke-width="3" stroke-linecap="round"/>
+              <path d="m140 224 45 1-45 59Zm20 105 82-97v29l-58 68Zm180-105h18l-25 31v-25Zm-7 75 64-75h20l-84 99Z" fill="white" opacity=".45"/>
+              <path d="M151 249h82m-76 0v69m71-69v69" stroke="#87a8c2" stroke-width="2" stroke-linecap="round"/>
+              <path d="m169 252 8-5 10 5 10-5 8 5 14 13-9 12-7-5v35h-34v-35l-7 5-9-12Z" fill="#0875dc" stroke="#0864b9" stroke-width="1.5" stroke-linejoin="round"/>
+              <path d="M181 250q6 8 12 0m-18 40h22" fill="none" stroke="#b6ddff" stroke-width="2"/>
+              <path d="M346 308h80" stroke="#9ab6cc" stroke-width="4" stroke-linecap="round"/>
+              <path d="m351 288 13-17 13 4 11 13 27 7q9 2 8 9h-74q-6-5 2-16Z" fill="#fff" stroke="#7192ae" stroke-width="1.5" stroke-linejoin="round"/>
+              <path d="m370 279 9 4m-4-9 9 4m-31 20h68" fill="none" stroke="#0875dc" stroke-width="2.5" stroke-linecap="round"/>
+              <path d="M113 350h352v9H113Zm-7 9h366v9H106Z" fill="#b3cadd"/>
+              <path d="M123 214v129m330-129v129" stroke="#d8e5ef" stroke-width="3"/>
+              <path d="M81 321q-23-21-14-45 22 2 25 29m-8 8q21-26 34-15-3 19-28 27m-8-5q-25-6-28-23 17-10 30 10" fill="#7daba2"/>
+              <path d="M84 286v56" stroke="#507f78" stroke-width="2"/>
+              <path d="M64 332h39l-5 30H69Z" fill="#0d4269"/>
+              <path d="M488 322h55m-49 0v37m43-37v37m-47-25h51" stroke="#6b8fa9" stroke-width="4" stroke-linecap="round"/>
+              <rect x="486" y="309" width="59" height="11" rx="3" fill="#98b9d1"/>
+              <g transform="translate(466 62)"><circle cx="0" cy="0" r="24" fill="#fff" stroke="#d5e5f2"/><path d="M0 14s11-11 11-19a11 11 0 0 0-22 0c0 8 11 19 11 19Z" fill="#0875dc"/><circle cy="-5" r="4" fill="#fff"/></g>
+              <path d="m91 101 4 8 9 1-7 7 1 9-7-4-8 4 2-9-7-7 9-1Z" fill="#b5d8f4"/>
+              <path d="M508 230h12m-6-6v12M84 206h10m-5-5v10" stroke="#a4c6e0" stroke-width="2" stroke-linecap="round"/>
+            </svg>
